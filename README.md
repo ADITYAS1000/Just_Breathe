@@ -27,7 +27,9 @@ A flex(pressure sensor) attached to a strap wrapped along the the baby's belly w
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/24549454/209992149-39e6132c-0586-4fb9-807b-fe8e5f4d97c8.png">
 
 ### Snapshot - Normal Breathing:
-<img width="1500" alt="image" src="https://user-images.githubusercontent.com/24549454/210007146-e8d7c2d0-7ced-4c67-a506-f5f4dac61a21.png">
+<img width="1498" alt="image" src="https://user-images.githubusercontent.com/24549454/210007242-de8042b4-b26d-4c8b-9ca0-d201825982b2.png">
+
 
 ### Snapshot - Breathing Stopped Alert Generated:
-<img width="1497" alt="image" src="https://user-images.githubusercontent.com/24549454/209992622-020890e9-fd5a-4a29-90a5-c8dde9e81d92.png">
+<img width="1498" alt="image" src="https://user-images.githubusercontent.com/24549454/210007324-8908e90a-a5dd-4eb3-a15b-56bed75ae57d.png">
+
