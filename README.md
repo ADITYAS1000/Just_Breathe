@@ -7,7 +7,7 @@ The objective of this semester’s embedded challenge is to build an embedded sy
 
 ### Specifications of the device
 
-#### Developement board used: https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F429I-DISCO/4310131
+#### Development board used: https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F429I-DISCO/4310131
 #### Sensor used: https://www.amazon.com/dp/B07MBQ2W5C?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 ### Overview
